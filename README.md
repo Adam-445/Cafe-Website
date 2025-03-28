@@ -2,11 +2,7 @@
 
 A simple web app built with Flask that allows users to view and add cafes based on amenities like WiFi, power outlets, and coffee quality.
 
-> Originally built as part of the 100 Days of Python course.
-> 
-> 
 > Retained as a reference for Flask-based applications with CSV storage.
-> 
 
 ---
 
@@ -54,4 +50,5 @@ A simple web app built with Flask that allows users to view and add cafes based 
 ### Notes
 
 - This project is not actively maintained.
+- Originally built as part of the 100 Days of Python course.
 - Focused on Flask fundamentals: routing, forms, and simple file-based storage.
