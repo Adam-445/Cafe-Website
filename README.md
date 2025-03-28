@@ -23,7 +23,7 @@ A simple web app built with Flask that allows users to view and add cafes based 
 1. Clone the repository:
     
     ```bash
-    git clone <https://github.com/yourusername/repo-name.git>
+    git clone https://github.com/Adam-445/Cafe-Website
     cd repo-name
     
     ```
